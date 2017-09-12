@@ -1,0 +1,10 @@
+uuid: e8b78084-b787-4d79-98c0-65c5e3950600
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pBQWpPWkd-rWLS68dmpSnK-HqWXLh4AZY3R-0ARR3pM
+id: oc_text_date_only
+label: 'OC Text Date Only'
+locked: false
+pattern: 'F j, Y'

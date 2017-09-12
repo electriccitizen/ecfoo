@@ -1,0 +1,11 @@
+uuid: 347a9a5a-e656-4cba-86cf-1389faba6950
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: B_4ZMmMGYnZlqIP5wcpyBRLgLClY5qWTTHUYWC9dXzM
+name: Position
+vid: position
+description: ''
+hierarchy: 0
+weight: 0

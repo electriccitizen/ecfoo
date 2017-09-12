@@ -1,0 +1,10 @@
+uuid: 29a4344f-6c11-45f4-8a22-0e6064a9f4bb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: z_BbTzfqopCMSGxk2COjWq-iLZ26GOBi8BQtGkJ6sT0
+id: oc_time_only
+label: 'OC Time Only'
+locked: false
+pattern: 'g:ia'

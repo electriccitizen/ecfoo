@@ -1,0 +1,14 @@
+uuid: 988cec16-840b-4001-8006-5b09c892f024
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: I2BURoCIJNNyC7quNkybyIXQLgvRO9tjeU_dOGIAKwA
+id: feedback
+label: 'Website feedback'
+recipients:
+  - adam@electriccitizen.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

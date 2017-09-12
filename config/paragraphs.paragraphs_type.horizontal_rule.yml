@@ -1,0 +1,9 @@
+uuid: 8bfc4fc4-3b90-46a0-9830-fd34fb0f2280
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DFjNPp66gs8S2agQGgjreyMBMpTEKqOCCKgMm-dvdfs
+id: horizontal_rule
+label: 'Horizontal Rule'
+behavior_plugins: {  }

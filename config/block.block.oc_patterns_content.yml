@@ -1,0 +1,22 @@
+uuid: 962eb849-cc7c-44ac-8047-937e499c8a8c
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - oc_patterns
+_core:
+  default_config_hash: LOo7irMky6bF1tTsaficc8SbrOuGDZNDJ9J2GBxUOnw
+id: oc_patterns_content
+theme: oc_patterns
+region: content
+weight: -2
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

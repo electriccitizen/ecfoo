@@ -1,0 +1,18 @@
+uuid: 9bb56063-d131-4376-aa4c-976f7390365a
+langcode: en
+status: true
+dependencies:
+  module:
+    - focal_point
+_core:
+  default_config_hash: 2ReeNk0v7nZ7jRC3R4LP7UA_TMa4zZ7EinbhbYTfFbA
+name: xl_rectangle_900x600
+label: 'XL Rectangle 900x600'
+effects:
+  008eaa17-1d9c-473b-8f4d-250ea3d7095c:
+    uuid: 008eaa17-1d9c-473b-8f4d-250ea3d7095c
+    id: focal_point_scale_and_crop
+    weight: 1
+    data:
+      width: 900
+      height: 600

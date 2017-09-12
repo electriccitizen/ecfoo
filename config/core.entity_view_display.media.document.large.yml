@@ -1,0 +1,29 @@
+uuid: 664b3cc0-35b9-4416-ad75-735060898f8b
+langcode: en
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.media.large
+    - field.field.media.document.field_media_file
+    - media_entity.bundle.document
+  module:
+    - file
+_core:
+  default_config_hash: 8_g6JM_aaqTITnt2YCrEYwsrwgAQYFpkDEsQtm8U3Ns
+id: media.document.large
+targetEntityType: media
+bundle: document
+mode: large
+content:
+  field_media_file:
+    type: file_default
+    weight: 0
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  created: true
+  name: true
+  thumbnail: true
+  uid: true

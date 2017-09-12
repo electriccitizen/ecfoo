@@ -1,0 +1,9 @@
+uuid: debb934d-345e-442b-b5b3-aa32c3c06baf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JOgEVUcpdgazZoePTtXWigCQ_TJd-k6dF-SPKXOYJlo
+id: map
+label: Map
+behavior_plugins: {  }

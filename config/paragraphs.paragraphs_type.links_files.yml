@@ -1,0 +1,9 @@
+uuid: 1027b5c8-03cf-4d93-8ba6-ee56e741ae12
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QwfMOirJ441xsk8khq6haDomEqeAZSxtRMSvYiWMjvs
+id: links_files
+label: 'Links & Files'
+behavior_plugins: {  }

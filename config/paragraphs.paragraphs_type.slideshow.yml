@@ -1,0 +1,9 @@
+uuid: fdfa7631-bb45-4603-a835-6fd58b7d953e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: W-YSWm69MO4j53tndCm8_qZECmzSJsCBva_O_OgzfZo
+id: slideshow
+label: Slideshow
+behavior_plugins: {  }

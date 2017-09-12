@@ -1,0 +1,10 @@
+uuid: 2f158416-43e6-4df1-9d2e-8292ca3822cf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: I_ofJsxkXf03zc7KcTnUg7iZsp8mMrKOAUF_U7KmXms
+id: oc_short_date_only
+label: 'OC Short Date Only'
+locked: false
+pattern: n/j/y

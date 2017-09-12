@@ -1,0 +1,32 @@
+uuid: e09c2633-31bb-416c-87d8-1db08cb8fe87
+langcode: en
+status: true
+dependencies:
+  module:
+    - options
+    - paragraphs
+_core:
+  default_config_hash: cEgESeIK3O6Pb8xBLcPqJOzt0udM94b_sSWNs4QZ1cQ
+id: paragraph.field_display_options
+field_name: field_display_options
+entity_type: paragraph
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: date
+      label: Date
+    -
+      value: image
+      label: 'Banner Image'
+    -
+      value: body
+      label: Body
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

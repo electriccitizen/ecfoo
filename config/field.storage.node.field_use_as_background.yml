@@ -1,0 +1,20 @@
+uuid: e543960e-ced7-4469-88b5-4add4677203e
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: JyMttwTNKGIkEgKRNbl_ubduDd6o6-EdMKO-x5jjmVA
+id: node.field_use_as_background
+field_name: field_use_as_background
+entity_type: node
+type: boolean
+settings: {  }
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

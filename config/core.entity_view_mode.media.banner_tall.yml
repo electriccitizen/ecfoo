@@ -1,0 +1,12 @@
+uuid: 9dd89d41-d6d0-46ce-8c27-4352c6832a14
+langcode: en
+status: true
+dependencies:
+  module:
+    - media_entity
+_core:
+  default_config_hash: 2-4G7cbpzfKgwFQgDJQ3YAACTnkGkqmZjNpliDzqsbY
+id: media.banner_tall
+label: 'Banner Tall'
+targetEntityType: media
+cache: true

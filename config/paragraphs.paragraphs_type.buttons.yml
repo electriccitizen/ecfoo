@@ -1,0 +1,9 @@
+uuid: c91590ab-aef3-470d-8c06-226ac6ec4ab9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2PpqkmOLR5jSI-DBXGgFm4tol_PynjRZ9BffejUwiHc
+id: buttons
+label: Buttons
+behavior_plugins: {  }

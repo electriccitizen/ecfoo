@@ -1,0 +1,12 @@
+uuid: 09b5f7c6-bcba-4c39-9da9-b2d9eefc9766
+langcode: en
+status: true
+dependencies:
+  module:
+    - media_entity
+_core:
+  default_config_hash: fsVut1lu_uLK2Fik6vpVK2uq_K8p4XKje9xj_qGTtq8
+id: media.banner_narrow
+label: 'Banner Narrow'
+targetEntityType: media
+cache: true
